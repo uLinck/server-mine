@@ -1,0 +1,65 @@
+[22:36:56] [ServerMain/INFO]: Building unoptimized datafixer
+[22:36:57] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[22:37:00] [ServerMain/INFO]: Loaded 7 recipes
+[22:37:03] [Server thread/INFO]: Starting minecraft server version 1.19.2
+[22:37:03] [Server thread/INFO]: Loading properties
+[22:37:03] [Server thread/INFO]: This server is running Paper version git-Paper-138 (MC: 1.19.2) (Implementing API version 1.19.2-R0.1-SNAPSHOT) (Git: 09904fd)
+[22:37:03] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[22:37:03] [Server thread/INFO]: Using 4 threads for Netty based IO
+[22:37:04] [Server thread/INFO]: Default game type: SURVIVAL
+[22:37:04] [Server thread/INFO]: Generating keypair
+[22:37:04] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:37:04] [Server thread/INFO]: Using default channel type
+[22:37:04] [Server thread/INFO]: Paper: Using Java 11 compression from Velocity.
+[22:37:04] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[22:37:05] [Server thread/INFO]: [ChestSort] Loading ChestSort v13.4.0
+[22:37:05] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:37:05] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:37:05] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:37:05] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:37:05] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:37:05] [Server thread/INFO]: Preparing level "os guri"
+[22:37:07] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:37:07] [Server thread/INFO]: Time elapsed: 491 ms
+[22:37:07] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[22:37:07] [Server thread/INFO]: Time elapsed: 242 ms
+[22:37:07] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[22:37:07] [Server thread/INFO]: Time elapsed: 135 ms
+[22:37:07] [Server thread/INFO]: [ChestSort] Enabling ChestSort v13.4.0
+[22:37:08] [Server thread/INFO]: [ChestSort] Use permissions: true
+[22:37:08] [Server thread/INFO]: [ChestSort] Current sorting method: {category},{itemsFirst},{name},{color},{customName}
+[22:37:08] [Server thread/INFO]: [ChestSort] Allow automatic chest sorting:true
+[22:37:08] [Server thread/INFO]: [ChestSort]   |- Chest sorting enabled by default: false
+[22:37:08] [Server thread/INFO]: [ChestSort]   |- Sort time: close
+[22:37:08] [Server thread/INFO]: [ChestSort] Allow automatic inventory sorting:true
+[22:37:08] [Server thread/INFO]: [ChestSort]   |- Inventory sorting enabled by default: false
+[22:37:08] [Server thread/INFO]: [ChestSort] Auto generate category files: true
+[22:37:08] [Server thread/INFO]: [ChestSort] Allow hotkeys: true
+[22:37:08] [Server thread/INFO]: [ChestSort] Hotkeys enabled by default:
+[22:37:08] [Server thread/INFO]: [ChestSort]   |- Middle-Click: true
+[22:37:08] [Server thread/INFO]: [ChestSort]   |- Shift-Click: true
+[22:37:08] [Server thread/INFO]: [ChestSort]   |- Double-Click: true
+[22:37:08] [Server thread/INFO]: [ChestSort]   |- Shift-Right-Click: true
+[22:37:08] [Server thread/INFO]: [ChestSort] Allow additional hotkeys: true
+[22:37:08] [Server thread/INFO]: [ChestSort] Additional hotkeys enabled by default:
+[22:37:08] [Server thread/INFO]: [ChestSort]   |- Left-Click: false
+[22:37:08] [Server thread/INFO]: [ChestSort]   |- Right-Click: false
+[22:37:08] [Server thread/INFO]: [ChestSort] Check for updates: true
+[22:37:08] [Server thread/INFO]: [ChestSort] Check interval: 4 hours (4.0 seconds)
+[22:37:08] [Server thread/INFO]: [ChestSort] Categories: 900-weapons (6), 905-common-tools (4), 907-other-tools (6), 909-food (33), 910-valuables (47), 920-armor-and-arrows (9), 930-brewing (18), 950-redstone (23), 960-wood (60), 970-stone (38), 980-plants (50), 981-corals (1)
+[22:37:08] [Server thread/INFO]: Running delayed init tasks
+[22:37:08] [Server thread/INFO]: Done (5.039s)! For help, type "help"
+[22:37:08] [Server thread/INFO]: Timings Reset
+[22:37:31] [User Authenticator #1/INFO]: UUID of player uFleck is 847203c3-33ba-31ac-8fb3-214046339983
+[22:37:31] [Server thread/INFO]: uFleck joined the game
+[22:37:31] [Server thread/INFO]: uFleck[/127.0.0.1:61104] logged in with entity id 448 at ([os guri]1749.696408539057, 113.0, 97.30000001192093)
+[22:38:03] [User Authenticator #1/INFO]: UUID of player _Linck_ is f79e4f5b-b7cc-3f99-b71d-7c813e64e51d
+[22:38:03] [Server thread/INFO]: _Linck_ joined the game
+[22:38:03] [Server thread/INFO]: _Linck_[/[0:0:0:0:0:0:0:1]:61107] logged in with entity id 530 at ([os guri]1735.7938618979772, 112.0, 100.84101219110062)
+[22:53:02] [Server thread/INFO]: _Linck_ has made the advancement [Withering Heights]
+[22:53:02] [Server thread/INFO]: uFleck has made the advancement [Withering Heights]
+[22:53:24] [Server thread/INFO]: uFleck withered away whilst fighting Wither
+[22:56:50] [Server thread/INFO]: uFleck lost connection: Disconnected
+[22:56:50] [Server thread/INFO]: uFleck left the game
+[22:56:55] [Server thread/INFO]: _Linck_ lost connection: Disconnected
+[22:56:55] [Server thread/INFO]: _Linck_ left the game
