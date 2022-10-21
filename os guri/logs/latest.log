@@ -1,160 +1,81 @@
-[09:15:08] [ServerMain/INFO]: Building unoptimized datafixer
-[09:15:13] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[09:15:22] [ServerMain/INFO]: Loaded 7 recipes
-[09:15:26] [Server thread/INFO]: Starting minecraft server version 1.19.2
-[09:15:26] [Server thread/INFO]: Loading properties
-[09:15:26] [Server thread/INFO]: This server is running Paper version git-Paper-138 (MC: 1.19.2) (Implementing API version 1.19.2-R0.1-SNAPSHOT) (Git: 09904fd)
-[09:15:26] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[09:15:26] [Server thread/INFO]: Using 4 threads for Netty based IO
-[09:15:27] [Server thread/INFO]: Default game type: SURVIVAL
-[09:15:27] [Server thread/INFO]: Generating keypair
-[09:15:27] [Server thread/INFO]: Starting Minecraft server on *:25565
-[09:15:27] [Server thread/INFO]: Using default channel type
-[09:15:27] [Server thread/INFO]: Paper: Using Java 11 compression from Velocity.
-[09:15:27] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
-[09:15:29] [Server thread/INFO]: [ChestSort] Loading ChestSort v13.4.0
-[09:15:29] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[09:15:29] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[09:15:29] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[09:15:29] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[09:15:29] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[09:15:29] [Server thread/INFO]: Preparing level "os guri"
-[09:15:54] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[09:15:55] [Server thread/INFO]: Time elapsed: 417 ms
-[09:15:55] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[09:15:55] [Server thread/INFO]: Time elapsed: 164 ms
-[09:15:55] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[09:15:55] [Server thread/INFO]: Time elapsed: 144 ms
-[09:15:55] [Server thread/INFO]: [ChestSort] Enabling ChestSort v13.4.0
-[09:15:56] [Server thread/INFO]: [ChestSort] Use permissions: true
-[09:15:56] [Server thread/INFO]: [ChestSort] Current sorting method: {category},{itemsFirst},{name},{color},{customName}
-[09:15:56] [Server thread/INFO]: [ChestSort] Allow automatic chest sorting:true
-[09:15:56] [Server thread/INFO]: [ChestSort]   |- Chest sorting enabled by default: false
-[09:15:56] [Server thread/INFO]: [ChestSort]   |- Sort time: close
-[09:15:56] [Server thread/INFO]: [ChestSort] Allow automatic inventory sorting:true
-[09:15:56] [Server thread/INFO]: [ChestSort]   |- Inventory sorting enabled by default: false
-[09:15:56] [Server thread/INFO]: [ChestSort] Auto generate category files: true
-[09:15:56] [Server thread/INFO]: [ChestSort] Allow hotkeys: true
-[09:15:56] [Server thread/INFO]: [ChestSort] Hotkeys enabled by default:
-[09:15:56] [Server thread/INFO]: [ChestSort]   |- Middle-Click: true
-[09:15:56] [Server thread/INFO]: [ChestSort]   |- Shift-Click: true
-[09:15:56] [Server thread/INFO]: [ChestSort]   |- Double-Click: true
-[09:15:56] [Server thread/INFO]: [ChestSort]   |- Shift-Right-Click: true
-[09:15:56] [Server thread/INFO]: [ChestSort] Allow additional hotkeys: true
-[09:15:56] [Server thread/INFO]: [ChestSort] Additional hotkeys enabled by default:
-[09:15:56] [Server thread/INFO]: [ChestSort]   |- Left-Click: false
-[09:15:56] [Server thread/INFO]: [ChestSort]   |- Right-Click: false
-[09:15:56] [Server thread/INFO]: [ChestSort] Check for updates: true
-[09:15:56] [Server thread/INFO]: [ChestSort] Check interval: 4 hours (4.0 seconds)
-[09:15:56] [Server thread/INFO]: [ChestSort] Categories: 900-weapons (6), 905-common-tools (4), 907-other-tools (6), 909-food (33), 910-valuables (47), 920-armor-and-arrows (9), 930-brewing (18), 950-redstone (23), 960-wood (60), 970-stone (38), 980-plants (50), 981-corals (1)
-[09:15:56] [Server thread/INFO]: Running delayed init tasks
-[09:15:56] [Server thread/INFO]: Done (30.142s)! For help, type "help"
-[09:15:56] [Server thread/INFO]: Timings Reset
-[09:20:28] [User Authenticator #1/INFO]: UUID of player _Linck_ is f79e4f5b-b7cc-3f99-b71d-7c813e64e51d
-[09:20:29] [Server thread/INFO]: _Linck_ joined the game
-[09:20:29] [Server thread/INFO]: _Linck_[/127.0.0.1:52213] logged in with entity id 440 at ([os guri]1749.9407937633466, 125.0, 79.00909136245136)
-[10:01:19] [Async Chat Thread - #0/INFO]: [Not Secure] <_Linck_> wwwww
-[10:02:57] [Server thread/INFO]: _Linck_ has reached the goal [Beaconator]
-[10:02:57] [Server thread/INFO]: _Linck_ has made the advancement [Bring Home the Beacon]
-[10:05:44] [Server thread/INFO]: _Linck_ lost connection: Disconnected
-[10:05:44] [Server thread/INFO]: _Linck_ left the game
-[10:05:47] [User Authenticator #2/INFO]: UUID of player _Linck_ is f79e4f5b-b7cc-3f99-b71d-7c813e64e51d
-[10:05:47] [Server thread/INFO]: _Linck_ joined the game
-[10:05:47] [Server thread/INFO]: _Linck_[/127.0.0.1:59072] logged in with entity id 8490 at ([os guri]1744.8856172580588, 125.0, 79.07388651707457)
-[10:06:48] [Server thread/INFO]: _Linck_ lost connection: Disconnected
-[10:06:48] [Server thread/INFO]: _Linck_ left the game
-[10:06:56] [Server thread/INFO]: --------- Help: Index ---------------------------
-[10:06:56] [Server thread/INFO]: Use /help [n] to get page n of help.
-[10:06:56] [Server thread/INFO]: Aliases: Lists command aliases
-[10:06:56] [Server thread/INFO]: Bukkit: All commands for Bukkit
-[10:06:56] [Server thread/INFO]: ChestSort: All commands for ChestSort
-[10:06:56] [Server thread/INFO]: Minecraft: All commands for Minecraft
-[10:06:56] [Server thread/INFO]: /advancement: A Mojang provided command.
-[10:06:56] [Server thread/INFO]: /attribute: A Mojang provided command.
-[10:06:56] [Server thread/INFO]: /ban: A Mojang provided command.
-[10:06:56] [Server thread/INFO]: /ban-ip: A Mojang provided command.
-[10:06:56] [Server thread/INFO]: /banlist: A Mojang provided command.
-[10:06:56] [Server thread/INFO]: /bossbar: A Mojang provided command.
-[10:06:56] [Server thread/INFO]: /clear: A Mojang provided command.
-[10:06:56] [Server thread/INFO]: /clone: A Mojang provided command.
-[10:06:56] [Server thread/INFO]: /data: A Mojang provided command.
-[10:06:56] [Server thread/INFO]: /datapack: A Mojang provided command.
-[10:06:56] [Server thread/INFO]: /debug: A Mojang provided command.
-[10:06:56] [Server thread/INFO]: /defaultgamemode: A Mojang provided command.
-[10:06:56] [Server thread/INFO]: /deop: A Mojang provided command.
-[10:06:56] [Server thread/INFO]: /difficulty: A Mojang provided command.
-[10:06:56] [Server thread/INFO]: /effect: A Mojang provided command.
-[10:06:56] [Server thread/INFO]: /enchant: A Mojang provided command.
-[10:06:56] [Server thread/INFO]: /execute: A Mojang provided command.
-[10:06:56] [Server thread/INFO]: /experience: A Mojang provided command.
-[10:06:56] [Server thread/INFO]: /fill: A Mojang provided command.
-[10:06:56] [Server thread/INFO]: /forceload: A Mojang provided command.
-[10:06:56] [Server thread/INFO]: /function: A Mojang provided command.
-[10:06:56] [Server thread/INFO]: /gamemode: A Mojang provided command.
-[10:06:56] [Server thread/INFO]: /gamerule: A Mojang provided command.
-[10:06:56] [Server thread/INFO]: /give: A Mojang provided command.
-[10:06:56] [Server thread/INFO]: /help: Shows the help menu
-[10:06:56] [Server thread/INFO]: /isort: Toggle automatic inventory sorting or sorts the player's inventory.
-[10:06:56] [Server thread/INFO]: /item: A Mojang provided command.
-[10:06:56] [Server thread/INFO]: /jfr: A Mojang provided command.
-[10:06:56] [Server thread/INFO]: /kick: A Mojang provided command.
-[10:06:56] [Server thread/INFO]: /kill: A Mojang provided command.
-[10:06:56] [Server thread/INFO]: /list: A Mojang provided command.
-[10:06:56] [Server thread/INFO]: /locate: A Mojang provided command.
-[10:06:56] [Server thread/INFO]: /loot: A Mojang provided command.
-[10:06:56] [Server thread/INFO]: /me: A Mojang provided command.
-[10:06:56] [Server thread/INFO]: /minecraft:help: A Mojang provided command.
-[10:06:56] [Server thread/INFO]: /minecraft:reload: A Mojang provided command.
-[10:06:56] [Server thread/INFO]: /msg: A Mojang provided command.
-[10:06:56] [Server thread/INFO]: /mspt: View server tick times
-[10:06:56] [Server thread/INFO]: /op: A Mojang provided command.
-[10:06:56] [Server thread/INFO]: /paper: Paper related commands
-[10:06:56] [Server thread/INFO]: /pardon: A Mojang provided command.
-[10:06:56] [Server thread/INFO]: /pardon-ip: A Mojang provided command.
-[10:06:56] [Server thread/INFO]: /particle: A Mojang provided command.
-[10:06:56] [Server thread/INFO]: /perf: A Mojang provided command.
-[10:06:56] [Server thread/INFO]: /place: A Mojang provided command.
-[10:06:56] [Server thread/INFO]: /playsound: A Mojang provided command.
-[10:06:56] [Server thread/INFO]: /plugins: Gets a list of plugins running on the server
-[10:06:56] [Server thread/INFO]: /recipe: A Mojang provided command.
-[10:06:56] [Server thread/INFO]: /reload: Reloads the server configuration and plugins
-[10:06:56] [Server thread/INFO]: /restart: Restarts the server
-[10:06:56] [Server thread/INFO]: /save-all: A Mojang provided command.
-[10:06:56] [Server thread/INFO]: /save-off: A Mojang provided command.
-[10:06:56] [Server thread/INFO]: /save-on: A Mojang provided command.
-[10:06:56] [Server thread/INFO]: /say: A Mojang provided command.
-[10:06:56] [Server thread/INFO]: /schedule: A Mojang provided command.
-[10:06:56] [Server thread/INFO]: /scoreboard: A Mojang provided command.
-[10:06:56] [Server thread/INFO]: /seed: A Mojang provided command.
-[10:06:56] [Server thread/INFO]: /setblock: A Mojang provided command.
-[10:06:56] [Server thread/INFO]: /setidletimeout: A Mojang provided command.
-[10:06:56] [Server thread/INFO]: /setworldspawn: A Mojang provided command.
-[10:06:56] [Server thread/INFO]: /sort: Toggle automatic chest sorting or change your hotkey settings
-[10:06:56] [Server thread/INFO]: /spawnpoint: A Mojang provided command.
-[10:06:56] [Server thread/INFO]: /spectate: A Mojang provided command.
-[10:06:56] [Server thread/INFO]: /spigot: Spigot related commands
-[10:06:56] [Server thread/INFO]: /spreadplayers: A Mojang provided command.
-[10:06:56] [Server thread/INFO]: /stop: A Mojang provided command.
-[10:06:56] [Server thread/INFO]: /stopsound: A Mojang provided command.
-[10:06:56] [Server thread/INFO]: /summon: A Mojang provided command.
-[10:06:56] [Server thread/INFO]: /tag: A Mojang provided command.
-[10:06:56] [Server thread/INFO]: /team: A Mojang provided command.
-[10:06:56] [Server thread/INFO]: /teammsg: A Mojang provided command.
-[10:06:56] [Server thread/INFO]: /teleport: A Mojang provided command.
-[10:06:56] [Server thread/INFO]: /tell: A Mojang provided command.
-[10:06:56] [Server thread/INFO]: /tellraw: A Mojang provided command.
-[10:06:56] [Server thread/INFO]: /time: A Mojang provided command.
-[10:06:56] [Server thread/INFO]: /timings: Manages Spigot Timings data to see performance of the server.
-[10:06:56] [Server thread/INFO]: /title: A Mojang provided command.
-[10:06:56] [Server thread/INFO]: /tm: A Mojang provided command.
-[10:06:56] [Server thread/INFO]: /tp: A Mojang provided command.
-[10:06:56] [Server thread/INFO]: /tps: Gets the current ticks per second for the server
-[10:06:56] [Server thread/INFO]: /trigger: A Mojang provided command.
-[10:06:56] [Server thread/INFO]: /version: Gets the version of this server including any plugins in use
-[10:06:56] [Server thread/INFO]: /w: A Mojang provided command.
-[10:06:56] [Server thread/INFO]: /weather: A Mojang provided command.
-[10:06:56] [Server thread/INFO]: /whitelist: A Mojang provided command.
-[10:06:56] [Server thread/INFO]: /worldborder: A Mojang provided command.
-[10:06:56] [Server thread/INFO]: /xp: A Mojang provided command.
-[10:07:02] [Server thread/INFO]: Saving the game (this may take a moment!)
-[10:07:02] [Server thread/INFO]: Saved the game
+[18:51:06] [ServerMain/INFO]: Building unoptimized datafixer
+[18:51:10] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[18:51:18] [ServerMain/INFO]: Loaded 7 recipes
+[18:51:23] [Server thread/INFO]: Starting minecraft server version 1.19.2
+[18:51:23] [Server thread/INFO]: Loading properties
+[18:51:23] [Server thread/INFO]: This server is running Paper version git-Paper-138 (MC: 1.19.2) (Implementing API version 1.19.2-R0.1-SNAPSHOT) (Git: 09904fd)
+[18:51:24] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[18:51:24] [Server thread/INFO]: Using 4 threads for Netty based IO
+[18:51:27] [Server thread/INFO]: Default game type: SURVIVAL
+[18:51:27] [Server thread/INFO]: Generating keypair
+[18:51:27] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:51:27] [Server thread/INFO]: Using default channel type
+[18:51:27] [Server thread/INFO]: Paper: Using Java 11 compression from Velocity.
+[18:51:27] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[18:51:29] [Server thread/INFO]: [ChestSort] Loading ChestSort v13.4.0
+[18:51:29] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:51:29] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:51:29] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:51:29] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:51:29] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:51:29] [Server thread/INFO]: Preparing level "os guri"
+[18:53:41] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:53:42] [Server thread/INFO]: Time elapsed: 529 ms
+[18:53:42] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[18:53:42] [Server thread/INFO]: Time elapsed: 206 ms
+[18:53:42] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[18:53:42] [Server thread/INFO]: Time elapsed: 208 ms
+[18:53:42] [Server thread/INFO]: [ChestSort] Enabling ChestSort v13.4.0
+[18:53:43] [Server thread/INFO]: [ChestSort] Use permissions: true
+[18:53:43] [Server thread/INFO]: [ChestSort] Current sorting method: {category},{itemsFirst},{name},{color},{customName}
+[18:53:43] [Server thread/INFO]: [ChestSort] Allow automatic chest sorting:true
+[18:53:43] [Server thread/INFO]: [ChestSort]   |- Chest sorting enabled by default: false
+[18:53:43] [Server thread/INFO]: [ChestSort]   |- Sort time: close
+[18:53:43] [Server thread/INFO]: [ChestSort] Allow automatic inventory sorting:true
+[18:53:43] [Server thread/INFO]: [ChestSort]   |- Inventory sorting enabled by default: false
+[18:53:43] [Server thread/INFO]: [ChestSort] Auto generate category files: true
+[18:53:43] [Server thread/INFO]: [ChestSort] Allow hotkeys: true
+[18:53:43] [Server thread/INFO]: [ChestSort] Hotkeys enabled by default:
+[18:53:43] [Server thread/INFO]: [ChestSort]   |- Middle-Click: true
+[18:53:43] [Server thread/INFO]: [ChestSort]   |- Shift-Click: true
+[18:53:43] [Server thread/INFO]: [ChestSort]   |- Double-Click: true
+[18:53:43] [Server thread/INFO]: [ChestSort]   |- Shift-Right-Click: true
+[18:53:43] [Server thread/INFO]: [ChestSort] Allow additional hotkeys: true
+[18:53:43] [Server thread/INFO]: [ChestSort] Additional hotkeys enabled by default:
+[18:53:43] [Server thread/INFO]: [ChestSort]   |- Left-Click: false
+[18:53:43] [Server thread/INFO]: [ChestSort]   |- Right-Click: false
+[18:53:43] [Server thread/INFO]: [ChestSort] Check for updates: true
+[18:53:43] [Server thread/INFO]: [ChestSort] Check interval: 4 hours (4.0 seconds)
+[18:53:43] [Server thread/INFO]: [ChestSort] Categories: 900-weapons (6), 905-common-tools (4), 907-other-tools (6), 909-food (33), 910-valuables (47), 920-armor-and-arrows (9), 930-brewing (18), 950-redstone (23), 960-wood (60), 970-stone (38), 980-plants (50), 981-corals (1)
+[18:53:43] [Server thread/INFO]: Running delayed init tasks
+[18:53:43] [Server thread/INFO]: Done (139.988s)! For help, type "help"
+[18:53:43] [Server thread/INFO]: Timings Reset
+[18:55:18] [User Authenticator #1/INFO]: UUID of player _Linck_ is f79e4f5b-b7cc-3f99-b71d-7c813e64e51d
+[18:55:19] [Server thread/INFO]: _Linck_ joined the game
+[18:55:19] [Server thread/INFO]: _Linck_[/[0:0:0:0:0:0:0:1]:49423] logged in with entity id 425 at ([os guri]1749.616925735515, 125.0, 85.40307642104119)
+[18:55:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5468ms or 109 ticks behind
+[19:27:24] [Server thread/INFO]: _Linck_ lost connection: Disconnected
+[19:27:24] [Server thread/INFO]: _Linck_ left the game
+[20:47:02] [User Authenticator #2/INFO]: UUID of player _Linck_ is f79e4f5b-b7cc-3f99-b71d-7c813e64e51d
+[20:47:02] [Server thread/INFO]: _Linck_ joined the game
+[20:47:02] [Server thread/INFO]: _Linck_[/[0:0:0:0:0:0:0:1]:59110] logged in with entity id 6540 at ([os guri]1750.8756403551943, 125.0, 60.97349528771813)
+[20:47:05] [Server thread/INFO]: _Linck_ lost connection: Disconnected
+[20:47:05] [Server thread/INFO]: _Linck_ left the game
+[20:47:09] [User Authenticator #2/INFO]: UUID of player _Linck_ is f79e4f5b-b7cc-3f99-b71d-7c813e64e51d
+[20:47:09] [Server thread/INFO]: _Linck_ joined the game
+[20:47:09] [Server thread/INFO]: _Linck_[/[0:0:0:0:0:0:0:1]:59116] logged in with entity id 6573 at ([os guri]1750.8756403551943, 125.0, 60.97349528771813)
+[21:05:58] [Server thread/INFO]: _Linck_ lost connection: Disconnected
+[21:05:58] [Server thread/INFO]: _Linck_ left the game
+[21:06:00] [User Authenticator #3/INFO]: UUID of player _Linck_ is f79e4f5b-b7cc-3f99-b71d-7c813e64e51d
+[21:06:00] [Server thread/INFO]: _Linck_ joined the game
+[21:06:00] [Server thread/INFO]: _Linck_[/127.0.0.1:54659] logged in with entity id 9646 at ([os guri]1744.295825932023, 89.78454919078771, 27.70345855384058)
+[21:15:28] [User Authenticator #4/INFO]: UUID of player weto007 is ec0334bd-1416-3187-a66f-1e307480acec
+[21:15:28] [Server thread/INFO]: weto007 joined the game
+[21:15:28] [Server thread/INFO]: weto007[/[0:0:0:0:0:0:0:1]:54750] logged in with entity id 11661 at ([os guri]1750.1994264482205, 125.0, 72.20482814382295)
+[21:22:55] [Server thread/INFO]: weto007 was killed by Evoker using magic
+[21:30:41] [Server thread/INFO]: _Linck_ lost connection: Disconnected
+[21:30:41] [Server thread/INFO]: _Linck_ left the game
+[21:30:43] [Server thread/INFO]: weto007 lost connection: Disconnected
+[21:30:44] [Server thread/INFO]: weto007 left the game
+[21:30:52] [Server thread/INFO]: Saving the game (this may take a moment!)
+[21:30:52] [Server thread/INFO]: Saved the game
